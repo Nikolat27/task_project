@@ -1,0 +1,22 @@
+# Hello!
+
+# Installation
+# pip install -r requirements.txt
+
+
+# database config
+# python manage.py makemigrations
+# python manage.py migrate
+
+
+# Run the tests
+# python manage.py test
+
+
+# Run the project
+# python manage.py runserver
+
+
+# Documents (using swagger):
+# http://127.0.0.1:8000/api/docs/
+# all the api prefix is '/api'
